@@ -1,0 +1,31 @@
+[
+    {
+      "id": "1410474",
+      "type": "1",
+      "title": "Mishra Multispeciality Hospital and Trauma Center",
+      "description": "Krishna Nagar, Near Pani Tanki, Gole Ka Mandir, Gwalior, Madhya Pradesh 474005",
+      "coverImage": "/graham-ruttan-ScXGSS5a9BI-unsplash.jpg"
+      
+    },
+    {
+      "id": "1331625",
+      "type": "2",
+      "title": "Kalyan Memorial & KDJ Hospital",
+      "description": "Mall Rd, Baradari Chauraha, Chik Santar, Sardar Bazar, Morar, Gwalior, Madhya Pradesh 474006",
+      "coverImage": "/josue-soto-E2HeA71Folo-unsplash.jpg"
+    },
+    {
+      "id": "1112431",
+      "type": "3",
+      "title": "Muskan Multispeciality Hospital",
+      "description": "175, near petrol pump, Jiwaji Nagar, Mayur Nagar, Thatipur, Gwalior, Madhya Pradesh 474011",
+      "coverImage": "/pexels-jonathan-meyer-668300.jpg"
+    },
+    {
+      "id": "985237",
+      "type": "4",
+      "title": "Soham Hospital & Research Centre",
+      "description": "6684+5P3, near indian oil petrol pump, Mayur Market, Mayur Nagar, Thatipur, Gwalior, Madhya Pradesh 474011",
+      "coverImage": "/pexels-tom-fisk-1692693.jpg"
+    }
+]
