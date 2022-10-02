@@ -1,4 +1,5 @@
-
+const HDWalletProvider = require('@truffle/hdwallet-provider');
+const keys =  require("./keys.json")
 module.exports = {
 
   contracts_build_directory:"./public/contracts",
@@ -8,7 +9,14 @@ module.exports = {
      host: "127.0.0.1",     // Localhost (default: none)
      port: 7545,            // Standard Ethereum port (default: none)
      network_id: "5777",       // Any network (default: none)
-    }
+    },
+    matic: {
+      provider: () => new HDWalletProvider(keys.MNEMONIC, ` https://rpc-mumbai.maticvigil.com/`),
+      network_id: 80001,
+      confirmations: 2,
+      timeoutBlocks: 200,
+      skipDryRun: true
+    },
   },
     
   //   ropsten: {

@@ -33,7 +33,7 @@ contract EMR {
     mapping(address => HospitalData) public Hospital_Data;
 
     constructor() {
-        Owner = 0xb9E948DE64BB6FE423ed878A1F33260f0e0C21F9;
+        Owner = 0x4104788980f0486eC9e183e04D63de81255cdEeE;
     }
 
    modifier restrictedToHospital() {
