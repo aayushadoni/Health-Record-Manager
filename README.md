@@ -2,7 +2,7 @@
 <div align ="center">
 
 # Team Bits N' Bytes
-Electronic Medical Record Mnager
+Electronic Medical Record Manager
 
 </div>
 
